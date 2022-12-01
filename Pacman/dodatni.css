@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+/* border box - elements margins and padding are included in its total 
+width and height */
+#game{
+	background: green;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
